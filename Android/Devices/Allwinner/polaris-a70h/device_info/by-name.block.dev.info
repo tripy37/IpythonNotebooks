@@ -1,0 +1,10 @@
+lrwxrwxrwx root     root              2015-03-14 14:17 UDISK -> /dev/block/nandj
+lrwxrwxrwx root     root              2015-03-14 14:17 boot -> /dev/block/nandc
+lrwxrwxrwx root     root              2015-03-14 14:17 boot-resource -> /dev/block/nanda
+lrwxrwxrwx root     root              2015-03-14 14:17 cache -> /dev/block/nandh
+lrwxrwxrwx root     root              2015-03-14 14:17 data -> /dev/block/nande
+lrwxrwxrwx root     root              2015-03-14 14:17 databk -> /dev/block/nandi
+lrwxrwxrwx root     root              2015-03-14 14:17 env -> /dev/block/nandb
+lrwxrwxrwx root     root              2015-03-14 14:17 misc -> /dev/block/nandf
+lrwxrwxrwx root     root              2015-03-14 14:17 recovery -> /dev/block/nandg
+lrwxrwxrwx root     root              2015-03-14 14:17 system -> /dev/block/nandd
